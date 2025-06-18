@@ -1,8 +1,5 @@
 ---
 title: Linguame
-emoji: 🌍
-colorFrom: red
-colorTo: pink
 sdk: gradio
 license: apache-2.0
 tags:
