@@ -102,7 +102,8 @@ Data Scientist · Linguist · Content Creator
 
 ## 💬 License
 
-All rights reserved. This code is for educational and demonstrative purposes only. 
-Reproduction, commercial use, or redistribution is not permitted without explicit permission.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
 
 
