@@ -28,6 +28,11 @@ sdk_version: 5.34.1
 It’s designed to support professionals, recruiters, coaches, and students in crafting more effective written communication.
 
 ---
+# LINGUAME™ — Tone Classifier
+
+Try it live on [🤗 Hugging Face Spaces](https://huggingface.co/spaces/tu-usuario/tu-space)  
+![Demo](https://huggingface.co/spaces/tu-usuario/tu-space/badge.svg)
+---
 
 ## 💡 What can it do?
 
