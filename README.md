@@ -1,8 +1,5 @@
 ---
 title: Linguame
-emoji: 🌍
-colorFrom: red
-colorTo: pink
 sdk: gradio
 license: apache-2.0
 tags:
@@ -30,6 +27,11 @@ sdk_version: 5.34.1
 **LINGUAME™** is a smart tool that analyzes the tone of professional texts and classifies them into **10 real-world communication styles**.  
 It’s designed to support professionals, recruiters, coaches, and students in crafting more effective written communication.
 
+---
+# LINGUAME™ — Tone Classifier
+
+Try it live on [🤗 Hugging Face Spaces](https://huggingface.co/spaces/tu-usuario/tu-space)  
+[Demo](https://huggingface.co/spaces/tu-usuario/tu-space/badge.svg)
 ---
 
 ## 💡 What can it do?
@@ -100,5 +102,8 @@ Data Scientist · Linguist · Content Creator
 
 ## 💬 License
 
-This project is for educational and demonstration purposes only. Please contact the author for commercial use or collaboration.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+
 
