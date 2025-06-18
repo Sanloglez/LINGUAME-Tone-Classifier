@@ -31,7 +31,7 @@ It’s designed to support professionals, recruiters, coaches, and students in c
 # LINGUAME™ — Tone Classifier
 
 Try it live on [🤗 Hugging Face Spaces](https://huggingface.co/spaces/tu-usuario/tu-space)  
-![Demo](https://huggingface.co/spaces/tu-usuario/tu-space/badge.svg)
+[Demo](https://huggingface.co/spaces/tu-usuario/tu-space/badge.svg)
 ---
 
 ## 💡 What can it do?
