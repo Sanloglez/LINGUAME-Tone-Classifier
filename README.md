@@ -97,5 +97,7 @@ Data Scientist · Linguist · Content Creator
 
 ## 💬 License
 
-This project is for educational and demonstration purposes only. Please contact the author for commercial use or collaboration.
+All rights reserved. This code is for educational and demonstrative purposes only. 
+Reproduction, commercial use, or redistribution is not permitted without explicit permission.
+
 
